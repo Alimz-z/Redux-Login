@@ -1,0 +1,14 @@
+{
+    "loginCredit": [
+      {
+        "userName": "Amin",
+        "passWord": "Ali326598",
+        "role": "Admin"
+      },
+      {
+        "userName": "Amir",
+        "passWord": "Ali326598",
+        "role": "User"
+      }
+    ]
+  }
